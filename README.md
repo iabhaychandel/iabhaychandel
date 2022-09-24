@@ -2,7 +2,7 @@
 - 👀 I’m interested in software enginner
 - 🌱 I’m currently learning javascript
 - 💞️ 
-- 📫 Reach me through instagram - @abhay_chandel_11 
+
 
 <!---
 iabhaychandel/iabhaychandel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
