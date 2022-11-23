@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iabhaychandel
 - 👀 I’m interested in software enginner
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React.Js
 - 💞️ 
 
 
